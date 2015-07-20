@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo `dpkg -s 1$ | grep Version`
